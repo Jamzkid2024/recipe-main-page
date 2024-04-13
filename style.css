@@ -10,7 +10,7 @@ body {
   font-family: Inter;
 }
 
-.parent {
+main {
   margin-top: 50px;
   margin-bottom: 50px;
   display: flex;
@@ -22,8 +22,9 @@ body {
   width: 400px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 0.5rem;
-  height: 55rem;
+  height: 58rem;
   max-height: 100vdh;
+  
 }
 img {
   height: 8rem;
